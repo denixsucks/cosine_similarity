@@ -1,0 +1,26 @@
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.csprojAssemblyReference.cache
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.csproj.CoreCompileInputs.cache
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.AssemblyInfoInputs.cache
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.AssemblyInfo.cs
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.exe
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.deps.json
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.runtimeconfig.json
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.runtimeconfig.dev.json
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.dll
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.pdb
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.dll
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.pdb
+C:\Users\dnzod\Desktop\KODLAMA BİŞİLERİ\I guess i try to code stuff\C Sharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.exe
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.deps.json
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.runtimeconfig.json
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.dll
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\bin\Debug\netcoreapp3.1\cosinesimilarity.pdb
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.dll
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.pdb
+C:\Users\Administrator\Desktop\coding\Itrycoding\CSharp\cosinesimilarity\cosinesimilarity\obj\Debug\netcoreapp3.1\cosinesimilarity.genruntimeconfig.cache
