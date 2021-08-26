@@ -1,2 +1,2 @@
 # Cosine-Similarity
-A Console Application that reveals the cosine similarity of two strings.
+A Console Application that reveals the cosine similarity of two document of strings.

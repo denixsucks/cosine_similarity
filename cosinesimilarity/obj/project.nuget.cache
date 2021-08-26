@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BjuXBl3uDJIPDWRaAtOe+uXQVnGRik+eQfMgyEXHvEHRCglVqYoGiEEuKj6sVBo3PY5ND/0RNmrCSR15HWdNfA==",
+  "dgSpecHash": "oR8CYfeezJ5NyMJ2/LlG/cn/VbCLkSZ2rjUtWfiHDgbDwgxtw1AhA6LJ6AIKrnZ4hgrQWjvGB1tHJqmHC0Icjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\coding\\Itrycoding\\CSharp\\cosinesimilarity\\cosinesimilarity\\cosinesimilarity.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Cosine-Similarity-main\\cosinesimilarity\\cosinesimilarity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
